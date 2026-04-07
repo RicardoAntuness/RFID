@@ -8,6 +8,10 @@ A aplicação permite identificar tags RFID, capturando o ID e possíveis dados 
 
 ---
 
+## Integrantes | RA:
+  * Mateus Lora | 1136218
+  * Ricardo Rigo Antunes | 1136661
+  * Gabriel Hanel | 1135926 
 ## 🚀 Tecnologias Utilizadas
 
 - Python  
